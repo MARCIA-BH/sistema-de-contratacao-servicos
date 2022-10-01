@@ -1,1 +1,3 @@
-# sistema-de-contrata-o-servi-os
+# sistema-de-contrata-o-servicos
+
+Página em desenvolvimento com a linguagem mobile reacti native, trabalho acadêmico.
